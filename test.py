@@ -4,8 +4,7 @@ c = "testando"
 d = 5
 e = 15
 
-print(a)
-print(b)
-print(c)
-print(d)
-print(d+e)
+meu_nome = "Gustavo"
+minha_idade = 25
+
+print(f"Meu nome é, {meu_nome} e eu tenho {minha_idade} anos de idade")
